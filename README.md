@@ -32,4 +32,4 @@
 ### 📬 Контакты для связи:
 
 - 📧 Email: Soylgr@yandex.ru  
-- 📱 Telegram: @Soylgr
+- 📱 Telegram: https://t.me/@Soylgr
