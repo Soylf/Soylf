@@ -16,4 +16,4 @@
 ### 📬 Контакты для связи:
 
 - 📧 Email: Soylgr@yandex.ru  
-- 📱 Telegram:[Александр](https://t.me/Soylgr)  
+- 📱 Telegram: [Александр](https://t.me/Soylgr)  
