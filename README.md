@@ -9,11 +9,10 @@
 
 ### 📊 GitHub Статистика
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Soylf&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soylf&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Soylf&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Soylf&layout=compact&theme=tokyonight)
 
 ### 📬 Контакты для связи:
-
-- 📧 Email: Soylgr@yandex.ru  
-- 📱 Telegram: [Александр](https://t.me/Soylgr)  
+- 📧 Email: **Soylgr@yandex.ru**  
+- 📱 Telegram: [Александр](https://t.me/Soylgr)
