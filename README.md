@@ -7,11 +7,11 @@
 - **DevOps:** Docker, Docker Compose, Gradle, Maven, Git, GitHub  
 - **Тестирование и документация:** JUnit 5, MockMvc, Postman, Swagger / OpenAPI 3.0  
 
-### 📊 GitHub Статистика
+### 📊 GitHub-статистика
 
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Soylf&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Soylf&show_icons=true&theme=tokyonight&locale=ru)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Soylf&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soylf&layout=compact&theme=tokyonight&locale=ru)
 
 ### 📬 Контакты для связи:
 - 📧 Email: **Soylgr@yandex.ru**  
