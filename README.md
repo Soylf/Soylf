@@ -2,7 +2,7 @@
 
 ### 🛠️ Мой стек технологий:
 - **Фреймворки:** Spring Boot, Spring Security, Spring Data JPA, Hibernate ORM, Apache Kafka  
-- **Базы данных:** PostgreSQL  
+- **Базы данных:** PostgreSQL, MySql...
 - **Архитектура:** REST API, gRPC  
 - **DevOps:** Docker, Docker Compose, Gradle, Maven, Git, GitHub  
 - **Тестирование и документация:** JUnit 5, MockMvc, Postman, Swagger / OpenAPI 3.0  
